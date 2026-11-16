@@ -13,4 +13,4 @@ Dated incidents Tessa can bring up. The last column is how she tells it, which i
 | Year 4 | As the end came and when she was 40, Tessa kept saying "we could still adopt" and "we could still have kids". She took no step toward either. | There's always another way. | "People do it at 42 all the time." |
 | Five months ago | Dan retracted the engagement and ended the relationship, citing moving goalposts and values that don't fit. | Rough patch. A break. | "Just jitters." |
 | Since | Tessa told friends and posted that they were "still together", "taking a break", "just jitters". Dan tried several times to end it kindly. | He isn't being fair to what they had. | "People who love each other take breaks." |
-| This week | The coffee meeting was rescheduled three times. | The delay shows how much she's carrying. | "I'm here, aren't I?" |
+| This week | Tessa rescheduled the coffee three times and arrived twenty minutes late. | The delay shows how much she's carrying. | "I'm here, aren't I?" |
