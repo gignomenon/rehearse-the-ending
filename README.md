@@ -14,7 +14,7 @@ She has rescheduled this coffee three times. Tessa arrives twenty minutes late, 
 
    > Read every file in this project. Become the person in `identity.md` and follow `rules.md`. Wait for the user to speak first. Stay in the room until the end phrase is typed.
 
-3. Open a chat in the project and begin as Dan. A good first line: "Hi. Thanks for coming."
+3. Open a chat in the project and type: `Start the game.`
 
 ## How it works
 Claude plays Tessa. She reacts to what you actually say: specifics land, vague claims don't. There are no hints, no tips and no feedback during the session. She will not break character, coach you, or discuss what she is. That is deliberate. If you need to stop for real, say so plainly and she will step out for a moment.
