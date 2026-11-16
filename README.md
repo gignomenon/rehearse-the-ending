@@ -1,12 +1,12 @@
-# Rehearse the Ending - practice telling your ex it's really over
+# Rehearse the Ending - practice telling your ex it's really over : holding true to core values
 
-Practice the conversation where you say "we're not getting back together" and mean it, against Tessa Quinlan, 40, your ex-fiancée, who has been telling everyone it's "just a break."
+Practice the conversation where you say "we're not getting back together" and mean it, against Tessa Quinlan, 40, your ex-fiancée, who has been telling everyone it's "just a break." The important context is that the breakup was out of respect of deep understanding respective core values which were never going to be aligned adequately.
 
 ## Who you play
-You play Dan. You ended the engagement five months ago, and you are the one who had to be the adult in the room. You still care about her, and you have found that your values do not fit. What you want from this coffee is to make the ending real and to get the "still together", "taking a break" and "just jitters" posts to stop. A small, concrete result counts.
+You play Dan. You ended the engagement five months ago, and you are the one who had to be the adult in the room. You still care about her as a person, yet know that your values do not and will not fit for life. What you want from this coffee is to make the ending concrete and to get the "still together", "taking a break" and "just jitters" posts to stop. A small, concrete result counts.
 
 ## The setup
-You have rescheduled this coffee three times. Tessa arrives twenty minutes late, which is how you know she is going to try to turn it into a bit. It has been five months since you ended things, and she has never agreed that it is over. You are sitting across from her at a table in a coffee shop. You speak first.
+She has rescheduled this coffee three times. Tessa arrives twenty minutes late, which is how you know she is going to try to turn it into a bit. It has been five months since you ended things, and she has never agreed that it is over. You are sitting across from her at a table in a coffee shop. You speak first.
 
 ## How to start
 1. Create a new Claude project and add every file in this folder to it, including the `reference` folder.
